@@ -1,4 +1,4 @@
-.avatar img {
-  object-fit: cover;
-  object-position: center center;
+#avatar img {
+  object-fit: contain;
+  offset-y: 14px;
 }
